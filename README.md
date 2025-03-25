@@ -36,6 +36,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/joaoAlmeida04/joaoAlmeida04/output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/joaoAlmeida04/joaoAlmeida04/output/snake.svg" alt="Snake animation" /> Vou deixar comentado caso precise voltar com o workflow-->
 
 ###
